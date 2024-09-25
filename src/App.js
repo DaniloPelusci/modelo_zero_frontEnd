@@ -1,7 +1,9 @@
 import React from 'react';
+import Header from './Header';
 
 export default function App(){
   return (
-    <h1>Hello Estudos</h1>
-  );
+      <Header>Client REST Pelusci</Header>
+  )
 }
+  
